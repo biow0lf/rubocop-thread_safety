@@ -1,0 +1,11 @@
+ThreadSafety/ClassAndModuleAttributes:
+  Description: Avoid mutating class and module attributes.
+  Enabled: true
+
+ThreadSafety/InstanceVariableInClassMethod:
+  Description: Avoid instance variables in class methods.
+  Enabled: true
+
+ThreadSafety/NewThread:
+  Description: Avoid starting new threads.
+  Enabled: true
